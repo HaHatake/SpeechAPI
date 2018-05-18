@@ -2,8 +2,11 @@
 api call
 
 read this webpage
+
 https://cloud.google.com/speech/docs/getting-started?hl=ja
 https://qiita.com/knyrc/items/7aab521edfc9bfb06625
+https://audio.online-convert.com/convert-to-flac
+
 
 Complete outh service accoount work
 
