@@ -26,3 +26,14 @@ wait for 5min ~ 10min
 output  jp,utf-8 character file
 
 end of the job
+
+
+***** if y encounter error ******
+api return this code
+"Long-running operation had neither response nor error set"
+
+is yr audio file type ?
+ maybe, m4a.
+ Speech API Recommendation flac and 16000Hz audio.
+ i try conversion flac type in this site
+ https://audio.online-convert.com/convert-to-flac
